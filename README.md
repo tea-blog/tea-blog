@@ -24,7 +24,5 @@ TEA-BLOG, for [酱酱们的每日掘金](https://juejin.cn/user/2819602825362840
 ### About me
 My other [GitHub](https://github.com/NanFangZhe404).
 #### Blog
-[CSDN：https://blog.csdn.net/qq_43263647](https://blog.csdn.net/qq_43263647)
-
 [Juejin：https://juejin.cn/user/2840793779295133](https://juejin.cn/user/2840793779295133/posts)
  
