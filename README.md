@@ -16,3 +16,15 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=tea-blog)
+### About here
+TEA-BLOG, for [酱酱们的每日掘金](https://juejin.cn/user/2819602825362840)
+
+<a href="https://juejin.cn/user/2819602825362840">![image](https://user-images.githubusercontent.com/68322136/221186462-af41c1df-b439-48f6-893e-d53226d9c8e6.png)</a>
+
+### About me
+My other [GitHub](https://github.com/NanFangZhe404).
+#### Blog
+[CSDN：https://blog.csdn.net/qq_43263647](https://blog.csdn.net/qq_43263647)
+
+[Juejin：https://juejin.cn/user/2840793779295133](https://juejin.cn/user/2840793779295133/posts)
+ 
